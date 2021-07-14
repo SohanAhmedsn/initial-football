@@ -223,35 +223,6 @@ h3 {
 }
 
 
-/* .icon-bar {
-    width: 100%;
-    background-color: rgb(255, 255, 255);
-    overflow: auto;
-
-}
-
-
-
-.icon-bar a {
-    float: left;
-    width: 10%;
-    text-align: center;
-    padding-right: 5px;
-    margin-left: 40px;
-    transition: all 0.1s ease;
-    color: white;
-    font-size: 10px;
-}
-
-.icon-bar a:hover {
-    background-color: #ffffff;
-}
-
-.footer-section {
-
-    background-color: #f2f2f2;
-
-} */
 .footer-section {
     display: flex;
 
